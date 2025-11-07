@@ -189,7 +189,7 @@ def send_telegram_notification(movie_data, content_id, notification_type='new', 
 🎬 মুভিটি আপলোড করা হয়েছে!
 
 📥 Download / Watch Now:
-👉 https://moviezonebd.vercel.app/
+👉 https://moviezonebd02.fly.dev/
 (লিংক কপি করে Chrome Browser দিয়ে ওপেন করুন ✅)
 
 🔞 18+ Exclusive Site:
